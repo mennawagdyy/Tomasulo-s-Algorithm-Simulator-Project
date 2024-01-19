@@ -4,7 +4,7 @@
     
     This algorithm is used for dynamic scheduling of instructions that is designed for out-of-order execution.
 
-    This is a university project that was done by Ali Khattab (SID 900191895) and Menna Abdalla (SID 900191147) under the supervision of Professor Cherif Salama.
+    This is a university project that was done by Ali Khattab and Menna Abdalla under the supervision of Professor Cherif Salama.
     
     
 ## Project Assumptions
